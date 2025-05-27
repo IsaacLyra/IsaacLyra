@@ -4,4 +4,6 @@
 
 💻 Estudando HTML, CSS e JS
 
-🚩 Contate-me no email: isaacprolog@gmail.com
+🚩 Contate-me: isaacprolog@gmail.com       www.linkedin.com/in/isaaclyra
+
+
