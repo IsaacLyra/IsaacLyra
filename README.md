@@ -1,6 +1,6 @@
 👋 Olá! Meu nome é Isaac Lyra Gerônimo, sou estudante de Análise e Desenvolvimento de Sistemas (FAESA), com previsão de conclusão em 2027.
 
-Atualmente, estou focado em desenvolver minhas habilidades em ** HTML, CSS e JavaScript**, além de aprofundar meus conhecimentos em algoritmos e lógica de programação. Tenho interesse em desenvolvimento backend, mas também gosto de criar interfaces responsivas e projetos que conectem teoria à prática.
+Atualmente, estou focado em desenvolver minhas habilidades em  HTML, CSS e JavaScript, além de aprofundar meus conhecimentos em algoritmos e lógica de programação. Tenho interesse em desenvolvimento backend, mas também gosto de criar interfaces responsivas e projetos que conectem teoria à prática.
 
 💡 Aqui você vai encontrar:
 
