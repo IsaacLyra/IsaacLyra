@@ -2,11 +2,11 @@
 
 💻 Estudante de Análise e Desenvolvimento de Sistemas na FAESA.
 
-🚀 Focado em desenvolvimento backend, desenvolvimento web e lógica de programação.
+🚀 Focado em desenvolvimento backend.
 
 📚 Sempre buscando evoluir através de projetos práticos e estudos constantes.
 
-🌎 Inglês Intermediário / Avançado.
+🌎 Inglês Avançado.
 
 📫 Contato: isaacprolog@gmail.com
 
