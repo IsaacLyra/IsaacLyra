@@ -1,9 +1,10 @@
 👋 Olá! Eu sou Isaac Lyra Gerônimo
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaacLyra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacLyra&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/IsaacLyra">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaacLyra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacLyra&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
 </div>
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FAESA, apaixonado por tecnologia e desenvolvimento de software.
