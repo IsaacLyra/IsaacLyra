@@ -15,5 +15,5 @@
 ## 🚀 My Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,mysql,git,github,postgressql" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,java,mysql,git,github,PostgreSQL" />
 </div>
