@@ -6,9 +6,12 @@
 
 📚 Sempre buscando evoluir através de projetos práticos e estudos constantes.
 
+💼 Trabalhando na Cranfos Soluções Ambientais
+
 🌎 Inglês Avançado.
 
 📫 Contato: isaacprolog@gmail.com
+
 
 ---
 
